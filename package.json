@@ -1,0 +1,20 @@
+{
+  "name": "aem-cloud-assets-uploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Build is running\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volodymyr-stoliar/AEM-Cloud-Assets-Uploader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volodymyr-stoliar/AEM-Cloud-Assets-Uploader/issues"
+  },
+  "homepage": "https://github.com/volodymyr-stoliar/AEM-Cloud-Assets-Uploader#readme"
+}
